@@ -1,0 +1,6 @@
+zenml
+mlflow
+fastapi
+uvicorn
+scikit-learn
+dvc
