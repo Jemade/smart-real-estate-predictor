@@ -20,3 +20,4 @@ A production grade Supervised Machine Learning system that predicts property pri
 ### 1. Training the Model
 ```bash
 python run_pipeline.py
+THE LINK : https://smart-real-estate-predictor.onrender.com/ TO THE DEPLOYED VERSION SWAGGER UI
